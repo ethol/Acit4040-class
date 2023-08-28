@@ -1,3 +1,3 @@
-foo = "bar"
-bar = "foo"
+foo = "foo"
+bar = "bar"
 print(foo + bar)
