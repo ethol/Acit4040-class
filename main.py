@@ -1,4 +1,4 @@
 foo = "foo"
 bar = "bar"
-print(f"{foo} + {bar} help")
+print(f"{foo} + {bar}")
 
