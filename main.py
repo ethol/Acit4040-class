@@ -1,3 +1,4 @@
 foo = "foo"
 bar = "bar"
-print(foo + bar + " help me")
+print(f"{foo} + {bar}")
+help me
